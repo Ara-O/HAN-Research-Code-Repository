@@ -1,6 +1,6 @@
 # Harrison’s Principles of Internal Medicine Class Mappings
 
-This document summarizes the taxonomy mapping for two ECG datasets: **SPH Dataset (Harrison’s-based)** and **CINC-2020 Dataset**.
+This document summarizes the taxonomy mapping for two ECG datasets: **SPH** and **CINC-2020**.
 
 ---
 
@@ -50,7 +50,7 @@ This document summarizes the taxonomy mapping for two ECG datasets: **SPH Datase
 
 ---
 
-## CINC-2020 Dataset
+## CINC-2020 Dataset: Harrison’s-based Taxonomy Mapping
 
 - **A:** Sinus rhythm
 - **B:**
